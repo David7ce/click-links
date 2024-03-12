@@ -1,5 +1,7 @@
 # URI links (clickable)
 
+You can also navigate on [Interneto links](https://raindrop.io/interneto).
+
 ## local net links
 - [http://127.0.0.1/](http://127.0.0.1/)
 - [http://192.168.1.1/](http://192.168.1.1/)
